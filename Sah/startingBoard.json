@@ -1,0 +1,340 @@
+{
+  "Squares": [
+    [
+      {
+        "Letter": "R",
+        "PieceColor": 1,
+        "PieceType": 2
+      },
+      {
+        "Letter": "N",
+        "PieceColor": 1,
+        "PieceType": 3
+      },
+      {
+        "Letter": "B",
+        "PieceColor": 1,
+        "PieceType": 4
+      },
+      {
+        "Letter": "Q",
+        "PieceColor": 1,
+        "PieceType": 5
+      },
+      {
+        "Letter": "K",
+        "PieceColor": 1,
+        "PieceType": 6
+      },
+      {
+        "Letter": "B",
+        "PieceColor": 1,
+        "PieceType": 4
+      },
+      {
+        "Letter": "N",
+        "PieceColor": 1,
+        "PieceType": 3
+      },
+      {
+        "Letter": "R",
+        "PieceColor": 1,
+        "PieceType": 2
+      }
+    ],
+    [
+      {
+        "Letter": "P",
+        "PieceColor": 1,
+        "PieceType": 1
+      },
+      {
+        "Letter": "P",
+        "PieceColor": 1,
+        "PieceType": 1
+      },
+      {
+        "Letter": "P",
+        "PieceColor": 1,
+        "PieceType": 1
+      },
+      {
+        "Letter": "P",
+        "PieceColor": 1,
+        "PieceType": 1
+      },
+      {
+        "Letter": "P",
+        "PieceColor": 1,
+        "PieceType": 1
+      },
+      {
+        "Letter": "P",
+        "PieceColor": 1,
+        "PieceType": 1
+      },
+      {
+        "Letter": "P",
+        "PieceColor": 1,
+        "PieceType": 1
+      },
+      {
+        "Letter": "P",
+        "PieceColor": 1,
+        "PieceType": 1
+      }
+    ],
+    [
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      }
+    ],
+    [
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      }
+    ],
+    [
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      }
+    ],
+    [
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      },
+      {
+        "Letter": ".",
+        "PieceColor": 0,
+        "PieceType": 0
+      }
+    ],
+    [
+      {
+        "Letter": "p",
+        "PieceColor": 0,
+        "PieceType": 1
+      },
+      {
+        "Letter": "p",
+        "PieceColor": 0,
+        "PieceType": 1
+      },
+      {
+        "Letter": "p",
+        "PieceColor": 0,
+        "PieceType": 1
+      },
+      {
+        "Letter": "p",
+        "PieceColor": 0,
+        "PieceType": 1
+      },
+      {
+        "Letter": "p",
+        "PieceColor": 0,
+        "PieceType": 1
+      },
+      {
+        "Letter": "p",
+        "PieceColor": 0,
+        "PieceType": 1
+      },
+      {
+        "Letter": "p",
+        "PieceColor": 0,
+        "PieceType": 1
+      },
+      {
+        "Letter": "p",
+        "PieceColor": 0,
+        "PieceType": 1
+      }
+    ],
+    [
+      {
+        "Letter": "r",
+        "PieceColor": 0,
+        "PieceType": 2
+      },
+      {
+        "Letter": "n",
+        "PieceColor": 0,
+        "PieceType": 3
+      },
+      {
+        "Letter": "b",
+        "PieceColor": 0,
+        "PieceType": 4
+      },
+      {
+        "Letter": "q",
+        "PieceColor": 0,
+        "PieceType": 5
+      },
+      {
+        "Letter": "k",
+        "PieceColor": 0,
+        "PieceType": 6
+      },
+      {
+        "Letter": "b",
+        "PieceColor": 0,
+        "PieceType": 4
+      },
+      {
+        "Letter": "n",
+        "PieceColor": 0,
+        "PieceType": 3
+      },
+      {
+        "Letter": "r",
+        "PieceColor": 0,
+        "PieceType": 2
+      }
+    ]
+  ]
+}
